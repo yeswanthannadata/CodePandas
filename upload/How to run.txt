@@ -1,0 +1,5 @@
+Instructions::
+-- Install jupyter
+-- Open the provided ipynb files 
+-- Make sure you are in the same folder as where excel files  are in while starting the server with below command.
+-- Jupiter notebook
